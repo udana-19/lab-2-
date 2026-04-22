@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=NUCLEO_F439ZI
+TARGET_CODE=0797
+DEVICE_ID[/home/studio/workspace/lab2retry]=066DFF485753667187113341
+DEVICE_TYPE[/home/studio/workspace/lab2retry]=connected
